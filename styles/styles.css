@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+}
+h1{
+    font: size 20px;
+    text-align:center;
+    color:black;
+}
+img{
+    height: 20 rem;
+    width: 300px;
+}
+
+image{
+    height:30 rem;
+    width: 200 px
